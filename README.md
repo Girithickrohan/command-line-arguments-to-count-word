@@ -43,7 +43,7 @@ print("Word Count in File=",count)
 ```
 
 ### OUTPUT:
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/command-line-arguments-to-count-word/main/Out.png)
 
 
 ## RESULT:
